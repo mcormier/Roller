@@ -1,4 +1,4 @@
-# Roller
+#Roller
 Roller is a simple application for changing Windows wallpaper (desktop background).
 It's meant to be used with deploymnet packages with the same wallpaper in many screen resolutions.
 
@@ -30,3 +30,5 @@ I will add features like cmd args:
 # Licence and terms
 This software comes with absolutely no warranty or guaranty. Use it at your own risk.
 Fill free to use it (commecrial / non-commercial).
+
+Test commit
